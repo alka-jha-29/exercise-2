@@ -26,10 +26,10 @@ checkboxes:
  
  table
  
- | table heading | table heading |
+ | table heading   | table heading      | table heading  |
  | --------------- | ------------------ | -------------- |
- | table data      |  table data        | table data |
- | table data      |  table data        | table data |
+ | table data      |  table data        | table data     |
+ | table data      |  table data        | table data     |
  
  
  ``` git commit -m "added second branch" ```
